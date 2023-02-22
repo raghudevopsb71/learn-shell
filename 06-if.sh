@@ -12,3 +12,5 @@ else
 fi
 
 ## It is always a good practice to quote the variables in expressions
+
+
